@@ -1,55 +1,65 @@
-# Detailed README
+# IBM AI Developer Professional Certificate
 
-## Specializations
+- **Where:** Coursera
+- **University/Institute:** IBM
+- **Status:** In Progress
 
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+## Courses in this Specialization
 
-#### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+1. Course 1: Introduction to Software Engineering
+   - **Status:** In Progress
+   - **Link:** <https://www.coursera.org/learn/introduction-to-software-engineering?specialization=applied-artifical-intelligence-ibm-watson-ai>
 
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+2. Course 2: Introduction to ArtificiaL Intelligence
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/introduction-to-ai?specialization=applied-artifical-intelligence-ibm-watson-ai>
+  
+3. Course 3: Generative AI: Introduction and Applications
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/generative-ai-introduction-and-applications?specialization=applied-artifical-intelligence-ibm-watson-ai>
+  
+4. Course 4: Generative AI: Prompt Engineering Basics
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone?specialization=applied-artifical-intelligence-ibm-watson-ai>
+  
+5. Course 5: Introduction to HTML, CSS, & JavaScript
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/introduction-html-css-javascript?specialization=applied-artifical-intelligence-ibm-watson-ai>
 
+6. Course 6: Python for Data Science, AI & Development
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-artifical-intelligence-ibm-watson-ai>
+
+7. Course 7: Developing AI Applications with Python and Flask
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/python-project-for-ai-application-development?specialization=applied-artifical-intelligence-ibm-watson-ai>
+
+8. Course 8: Building Generative AI-Powered Applications with Python
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/building-gen-ai-powered-applications?specialization=applied-artifical-intelligence-ibm-watson-ai>
+
+9. Course 9: Generative AI: Elevate your Software Development Career
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/generative-ai-elevate-software-development-career?specialization=applied-artifical-intelligence-ibm-watson-ai>
+
+10. Course 10: Software Developer Career Guide and Interview Preparation
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation?specialization=applied-artifical-intelligence-ibm-watson-ai>
 ...
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Course 1: Machine Learning with Python
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
-
-...
-
-## Other Activities
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
+- **Link:** 
+  - **Week1:** <IntroductiontoSoftwareEngineering\Week1.md>
+  - **Week2:** <IntroductiontoSoftwareEngineering\Week2.md>
+  - **Week3:** <IntroductiontoSoftwareEngineering\Week3.md>
+  - **Week4:** <IntroductiontoSoftwareEngineering\Week4.md>
+  - 
 ...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
+- **Course 1: Machine Learning with Python**
   - **Link:** [URL to certificate, if available]

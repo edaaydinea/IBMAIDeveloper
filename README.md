@@ -43,20 +43,22 @@
    - **Link:** <https://www.coursera.org/learn/generative-ai-elevate-software-development-career?specialization=applied-artifical-intelligence-ibm-watson-ai>
 
 10. Course 10: Software Developer Career Guide and Interview Preparation
-   - **Status:** Not Started
-   - **Link:** <https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation?specialization=applied-artifical-intelligence-ibm-watson-ai>
+
+- **Status:** Not Started
+- **Link:** <https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation?specialization=applied-artifical-intelligence-ibm-watson-ai>
 ...
 
 ## Courses
 
 ### Course 1: Introduction to Software Engineering
 
-- **Link:** 
-  - **Week1:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week1.md>
-  - **Week2:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week2.md>
-  - **Week3:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week3.md>
-  - **Week4:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week4.md>
-  - 
+- **Link:**
+  - **Week1:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week1.md>
+  - **Week2:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week2.md>
+  - **Week3:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week3.md>
+  - **Week4:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week4.md>
+  - **Week5:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week5.md>
+  - **Week6:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week6.md>
 ...
 
 ## Certificates

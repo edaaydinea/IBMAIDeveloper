@@ -52,10 +52,10 @@
 ### Course 1: Machine Learning with Python
 
 - **Link:** 
-  - **Week1:** <IntroductiontoSoftwareEngineering\Week1.md>
-  - **Week2:** <IntroductiontoSoftwareEngineering\Week2.md>
-  - **Week3:** <IntroductiontoSoftwareEngineering\Week3.md>
-  - **Week4:** <IntroductiontoSoftwareEngineering\Week4.md>
+  - **Week1:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week1.md>
+  - **Week2:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week2.md>
+  - **Week3:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week3.md>
+  - **Week4:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week4.md>
   - 
 ...
 

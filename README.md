@@ -49,7 +49,7 @@
 
 ## Courses
 
-### Course 1: Machine Learning with Python
+### Course 1: Introduction to Software Engineering
 
 - **Link:** 
   - **Week1:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/IntroductiontoSoftwareEngineering/Week1.md>
@@ -61,5 +61,5 @@
 
 ## Certificates
 
-- **Course 1: Machine Learning with Python**
+- **Course 1: Introduction to Software Engineering**
   - **Link:** [URL to certificate, if available]

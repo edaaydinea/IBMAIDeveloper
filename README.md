@@ -53,15 +53,15 @@
 ### Course 1: Introduction to Software Engineering
 
 - **Link:**
-  - **Week1:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week1.md>
-  - **Week2:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week2.md>
-  - **Week3:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week3.md>
-  - **Week4:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week4.md>
-  - **Week5:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week5.md>
-  - **Week6:** <https://github.com/edaaydinea/IBMAIDeveloper/blob/main/Course1/Week6.md>
+  - [**Week1 Note:**](IBMAIDeveloper/blob/main/Course1/Week1.md)
+  - [**Week2 Note:**](IBMAIDeveloper/blob/main/Course1/Week2.md)
+  - [**Week3 Note:**](IBMAIDeveloper/blob/main/Course1/Week3.md)
+  - [**Week4 Note:**](IBMAIDeveloper/blob/main/Course1/Week4.md)
+  - [**Week5 Note:**](IBMAIDeveloper/blob/main/Course1/Week5.md)
+  - [**Week6 Note:**](IBMAIDeveloper/blob/main/Course1/Week6.md)
+
 ...
 
 ## Certificates
 
-- **Course 1: Introduction to Software Engineering**
-  - **Link:** [URL to certificate, if available]
+- [**Course 1: Introduction to Software Engineering**]()

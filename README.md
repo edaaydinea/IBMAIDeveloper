@@ -53,12 +53,12 @@
 ### Course 1: Introduction to Software Engineering
 
 - **Link:**
-  - [**Week1 Note:**](IBMAIDeveloper/blob/main/Course1/Week1.md)
-  - [**Week2 Note:**](IBMAIDeveloper/blob/main/Course1/Week2.md)
-  - [**Week3 Note:**](IBMAIDeveloper/blob/main/Course1/Week3.md)
-  - [**Week4 Note:**](IBMAIDeveloper/blob/main/Course1/Week4.md)
-  - [**Week5 Note:**](IBMAIDeveloper/blob/main/Course1/Week5.md)
-  - [**Week6 Note:**](IBMAIDeveloper/blob/main/Course1/Week6.md)
+  - [**Week1 Note:**](IBMAIDeveloper/blob/main/Course1/Week1.ipynb)
+  - [**Week2 Note:**](IBMAIDeveloper/blob/main/Course1/Week2.ipynb)
+  - [**Week3 Note:**](IBMAIDeveloper/blob/main/Course1/Week3.ipynb)
+  - [**Week4 Note:**](IBMAIDeveloper/blob/main/Course1/Week4.ipynb)
+  - [**Week5 Note:**](IBMAIDeveloper/blob/main/Course1/Week5.ipynb)
+  - [**Week6 Note:**](IBMAIDeveloper/blob/main/Course1/Week6.ipynb)
 
 ...
 
